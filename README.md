@@ -1,6 +1,6 @@
 # Blink-it-Sales-Analysis-Dashboard
 
-1. 📌 Project Title / Headline
+1. 📌 Project Title
 
 Blink it Sales Analysis Dashboard
 
@@ -12,7 +12,7 @@ Example:
 
 
 
-2. 🎯 Short Description / Purpose
+2. 🎯  Purpose
 
 The Blink it Sales Analysis Dashboard is a visually engaging Power BI business intelligence report designed to transform raw sales data into meaningful insights.
 
@@ -125,6 +125,6 @@ Analyze sales trends over time
 
 
 
-6. 🖼️ Screenshots / Demo
+6. 🖼️ Screenshots
 
 Show what the dashboard looks like. -![Alt text](https://github.com/ayushmahra18-cell/Blink-it-Sales-Analysis-Dashboard/blob/main/blinkit-sales-analysis-dashboard.png)
