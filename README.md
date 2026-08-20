@@ -10,6 +10,8 @@ Example:
 🛒 Blink it Sales Analysis: Retail Performance Dashboard
 
 
+
+
 2. 🎯 Short Description / Purpose
 
 The Blink it Sales Analysis Dashboard is a visually engaging Power BI business intelligence report designed to transform raw sales data into meaningful insights.
@@ -32,6 +34,8 @@ Example:
 The dashboard provides insights into $1.20M total sales across 9K items, helping users understand product, outlet, location, and sales performance.
 
 
+
+
 3. 🛠️ Tech Stack
 
 The dashboard was built using:
@@ -49,6 +53,8 @@ The dashboard was built using:
 📈 Data Visualization – Charts, cards, tables and slicers
 
 📁 File Formats –.pbix,.xlsx,.png
+
+
 
 
 4. 📗 Data Source
@@ -75,6 +81,8 @@ The dataset contains information about:
 
 ⭐ Rating
 The data was cleaned and transformed using Power Query before creating the dashboard.
+
+
 
 
 5. 🚀 Features / Highlights
@@ -114,6 +122,7 @@ Identify high-sales outlet types
 Find top-performing product categories
 Compare location-wise performance
 Analyze sales trends over time
+
 
 
 6. 🖼️ Screenshots / Demo
