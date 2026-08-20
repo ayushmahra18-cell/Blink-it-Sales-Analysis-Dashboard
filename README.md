@@ -127,4 +127,4 @@ Analyze sales trends over time
 
 6. 🖼️ Screenshots
 
-Show what the dashboard looks like. -![Alt text](https://github.com/ayushmahra18-cell/Blink-it-Sales-Analysis-Dashboard/blob/main/blinkit-sales-analysis-dashboard.png)
+ Dashboard looks like. -![Alt text](https://github.com/ayushmahra18-cell/Blink-it-Sales-Analysis-Dashboard/blob/main/blinkit-sales-analysis-dashboard.png)
